@@ -1,0 +1,16 @@
+{
+  "name": "sc-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tabookey/sc-sample.git",
+  "author": "Dror Tirosh <dror@tabookey.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.4",
+    "gsn-sponsor": "0.0.3-beta.5",
+    "truffle": "^5.1.1"
+  },
+  "scripts": {
+    "test": "truffle test"
+  }
+}
